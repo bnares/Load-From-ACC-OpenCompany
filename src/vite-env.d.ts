@@ -1,1 +1,3 @@
-/// <reference types="vite/client" />
+
+VITE_CLIENT_ID=Zrkqtql3VtRcgZzOaGpJ0YAM7Sjc3G3BezMg04aad7fw4mup
+VITE_CLIENT_SECRET=Y1iaZiT6nbTTMFYYHdAiY2Jn1dSBNkPHHty7BiiAAt44klHAnUR6E1n1PMQ9TwHx
